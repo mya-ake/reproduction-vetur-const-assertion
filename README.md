@@ -1,0 +1,1 @@
+# reproduction-vetur-const-assertion
